@@ -2,7 +2,7 @@
 
 
 function trouverMotLePlusLong(str) {
-    let mots = str.split(' '); // divise une chine de caractére
+    let mots = str.split(' '); // divise une chaine de caractére
     let motLePlusLong = " ";
 
     //trouve le mot le plus long
